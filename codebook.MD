@@ -1,11 +1,11 @@
-CODE BOOK
+#CODE BOOK
 This code book summarizes the tidy.txt file for the class Getting and Cleaning Data - getdata-035
 
-IDENTIFIERS
-subject		The ID of the subject.
-activity	Activity performed, coded by using an integer: 1 WALKING, 2 WALK		ING_UPSTAIRS, 3 WALKING_DOWNSTAIRS, 4 SITTING, 5 STANDING, 6 LAY                ING
+#IDENTIFIERS
+* subject - The ID of the subject.
+* activity - Activity performed, coded by using an integer: 1 WALKING, 2 WALK		ING_UPSTAIRS, 3 WALKING_DOWNSTAIRS, 4 SITTING, 5 STANDING, 6 LAYING
 
-FEATURES
+#FEATURES
 tBodyAccMeanX
 tBodyAccMeanY
 tBodyAccMeanZ
